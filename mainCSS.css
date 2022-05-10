@@ -18,3 +18,9 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
