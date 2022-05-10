@@ -12,14 +12,18 @@ body {
     align-items: center;
 }
 
+.links,
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header {
     justify-content: space-between;
     padding: 0 4em;
 }
 
 .footer {
-    font-size: 18px;
-    color: #E5E7EB;
     justify-content: center;
     padding: 20px;
 }
@@ -28,11 +32,6 @@ body {
     font-size: 24px;
     font-weight: 700;
     color: #F9FAF8;
-}
-
-.links {
-    font-size: 18px;
-    color: #E5E7EB;
 }
 
 ul {
