@@ -31,7 +31,16 @@ body {
 .logo {
     font-size: 24px;
     font-weight: 700;
+}
+
+.logo,
+.headingOne {
     color: #F9FAF8;
+}
+
+.headingOne {
+    font-size: 48px;
+    font-weight: bolder;
 }
 
 .footer {
