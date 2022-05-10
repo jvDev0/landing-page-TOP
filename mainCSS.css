@@ -19,7 +19,8 @@ body {
 
 .links,
 .footer,
-.textOne {
+.textOne,
+button {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -69,4 +70,12 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 20px;
+}
+
+button {
+    background: #3882F6;
+    padding: 5px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
 }
