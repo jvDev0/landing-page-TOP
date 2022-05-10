@@ -3,3 +3,13 @@ body {
     flex-direction: column;
     margin: 0;
 }
+
+.header,
+.footer {
+    background: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
