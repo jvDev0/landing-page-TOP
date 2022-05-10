@@ -18,7 +18,8 @@ body {
 }
 
 .links,
-.footer {
+.footer,
+.textOne {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -53,6 +54,10 @@ body {
 .headingOne {
     font-size: 48px;
     font-weight: bolder;
+}
+
+.textOne {
+    margin-bottom: 10px;
 }
 
 .footer {
