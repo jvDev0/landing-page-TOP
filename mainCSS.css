@@ -6,8 +6,13 @@ body {
 }
 
 .header,
-.footer {
+.footer,
+.boxOne {
     background: #1F2937;
+}
+
+.header,
+.footer {
     display: flex;
     align-items: center;
 }
@@ -23,15 +28,15 @@ body {
     padding: 0 4em;
 }
 
-.footer {
-    justify-content: center;
-    padding: 20px;
-}
-
 .logo {
     font-size: 24px;
     font-weight: 700;
     color: #F9FAF8;
+}
+
+.footer {
+    justify-content: center;
+    padding: 20px;
 }
 
 ul {
