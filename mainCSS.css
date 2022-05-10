@@ -16,6 +16,13 @@ body {
     padding: 0 4em;
 }
 
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+    justify-content: center;
+    padding: 20px;
+}
+
 .logo {
     font-size: 24px;
     color: #F9FAF8;
