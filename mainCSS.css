@@ -69,6 +69,24 @@ button {
     margin-top: auto;
 }
 
+.boxTwo {
+    text-align: center;
+}
+
+.containerTwo {
+    display: flex;
+    justify-content: center;
+}
+
+.infoTwo {
+    padding: 20px;
+}
+
+.textTwo {
+    width: 200px;
+    margin-top: 10px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
