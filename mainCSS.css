@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    min-height: 100vh;
 }
 
 .header,
@@ -65,6 +66,7 @@ button {
 .footer {
     justify-content: center;
     padding: 20px;
+    margin-top: auto;
 }
 
 ul {
