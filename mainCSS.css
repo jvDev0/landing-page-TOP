@@ -115,6 +115,9 @@ button {
     max-width: 750px;
 }
 
+.modal {
+    background: #3882f6;
+}
 
 ul {
     list-style-type: none;
