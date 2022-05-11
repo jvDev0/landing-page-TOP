@@ -45,7 +45,7 @@ button {
 
 .boxOne {
     display: flex;
-    padding: 32px 0;
+    padding-bottom: 5em;
 }
 
 .container {
