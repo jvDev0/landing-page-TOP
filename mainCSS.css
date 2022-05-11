@@ -33,15 +33,24 @@ button {
     padding: 0 10em;
 }
 
+.logo,
+.headingOne {
+    color: #F9FAF8;
+}
+
+.boxThree,
+.boxFour {
+    display: flex;
+    justify-content: center;
+    padding: 5em 0;
+}
+
 .logo {
     font-size: 24px;
     font-weight: 700;
 }
 
-.logo,
-.headingOne {
-    color: #F9FAF8;
-}
+
 
 .boxOne {
     display: flex;
@@ -97,9 +106,6 @@ button {
 
 .boxThree {
     background: #e5e7eb;
-    display: flex;
-    justify-content: center;
-    padding: 5em 0;
 }
 
 .textThree {
@@ -108,6 +114,7 @@ button {
     color: #1f2937;
     max-width: 750px;
 }
+
 
 ul {
     list-style-type: none;
