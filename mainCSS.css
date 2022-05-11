@@ -71,6 +71,7 @@ button {
 
 .boxTwo {
     text-align: center;
+    padding-bottom: 4em;
 }
 
 .containerTwo {
@@ -85,6 +86,12 @@ button {
 .textTwo {
     width: 200px;
     margin-top: 10px;
+}
+
+.boxTwo h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
 
 ul {
