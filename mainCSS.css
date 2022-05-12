@@ -64,6 +64,7 @@ a {
 .headingOne {
     font-size: 48px;
     font-weight: bolder;
+    margin-top: auto;
 }
 
 .textOne {
