@@ -83,19 +83,16 @@ a {
 .containerTwo {
     display: flex;
     justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
+    gap: 4em;
 }
 
 .infoTwo {
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    max-width: 300px;
 }
 
 .textTwo {
     font-size: 18px;
-    width: 250px;
     margin-top: 10px;
 }
 
