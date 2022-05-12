@@ -119,6 +119,12 @@ a {
     border-radius: 10px;
 }
 
+.footer {
+    justify-content: center;
+    padding: 2em;
+    margin-top: auto;
+}
+
 .textFour {
     margin: 0 5em;
 }
@@ -133,11 +139,7 @@ a {
     padding: 0 3em;
 }
 
-.footer {
-    justify-content: center;
-    padding: 2em;
-    margin-top: auto;
-}
+
 
 ul {
     list-style-type: none;
