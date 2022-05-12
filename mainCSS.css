@@ -52,11 +52,9 @@ a {
 
 .boxOne {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     padding-bottom: 5em;
-}
-
-.imageOne {
-    margin-left: 300px;
 }
 
 .container {
@@ -73,7 +71,6 @@ a {
 .textOne {
     margin-bottom: 10px;
 }
-
 
 .boxTwo {
     text-align: center;
