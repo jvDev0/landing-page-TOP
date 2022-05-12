@@ -70,12 +70,6 @@ a {
     margin-bottom: 10px;
 }
 
-.footer {
-    justify-content: center;
-    padding: 2em;
-    margin-top: auto;
-}
-
 .boxTwo {
     text-align: center;
     padding-bottom: 4em;
@@ -96,7 +90,7 @@ a {
 
 .textTwo {
     font-size: 18px;
-    width: 200px;
+    width: 250px;
     margin-top: 10px;
 }
 
@@ -137,6 +131,12 @@ a {
 .modal button {
     border: solid white;
     padding: 0 3em;
+}
+
+.footer {
+    justify-content: center;
+    padding: 2em;
+    margin-top: auto;
 }
 
 ul {
