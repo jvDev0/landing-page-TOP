@@ -62,7 +62,7 @@ a {
     flex-wrap: wrap;
     max-width: 350px;
     max-height: 350px;
-    margin: 0 3em 3em 0;
+    margin: 3em;
 }
 
 .headingOne {
@@ -106,6 +106,7 @@ a {
     font-style: italic;
     color: #1f2937;
     max-width: 750px;
+    margin: 2em;
 }
 
 /*
