@@ -102,6 +102,7 @@ a {
 }
 
 .boxThree {
+    display: flex;
     background: #e5e7eb;
 }
 
@@ -121,6 +122,8 @@ a {
 }
 
 .textFour {
+    display: flex;
+    flex-direction: column;
     margin: 0 5em;
 }
 
