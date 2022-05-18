@@ -44,7 +44,7 @@ a {
 .boxFour {
     display: flex;
     justify-content: center;
-    padding: 5em 0;
+    padding: 2em 0;
 }
 
 .logo {
@@ -107,6 +107,12 @@ a {
     color: #1f2937;
     max-width: 750px;
     margin: 2em;
+}
+
+.modal {
+    display: flex;
+    background: #3882f6;
+    border-radius: 10px;
 }
 
 /*
