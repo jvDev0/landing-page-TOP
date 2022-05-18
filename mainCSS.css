@@ -8,7 +8,6 @@ body {
 
     min-height: 100vh;
     min-width: 100%;
-    border: solid black;
 }
 
 .header,
@@ -32,8 +31,7 @@ a {
     color: #E5E7EB;
 }
 
-.header,
-.container {
+.header {
     justify-content: space-around;
 }
 
@@ -63,17 +61,15 @@ a {
 
 .container {
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     max-width: 400px;
+    margin-right: 3em;
 }
 
 .headingOne {
     font-size: 48px;
     font-weight: bolder;
-}
-
-.textOne {
-    margin-bottom: 10px;
 }
 
 .boxTwo {
