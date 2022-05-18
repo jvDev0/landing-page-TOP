@@ -7,7 +7,7 @@ body {
     padding: 0;
 
     min-height: 100vh;
-    min-width: 100vh;
+    min-width: 100%;
 }
 
 .header,
@@ -34,7 +34,7 @@ a {
 .header,
 .container {
     justify-content: space-between;
-    padding: 0 10em 3em;
+    padding: 2em 10em;
 }
 
 .logo,
@@ -129,7 +129,7 @@ a {
 
 .footer {
     justify-content: center;
-    padding: 2em;
+    padding: 2em 0em;
     margin-top: auto;
 }
 
@@ -143,8 +143,6 @@ a {
     border: solid white;
     padding: 0 3em;
 }
-
-
 
 ul {
     list-style-type: none;
