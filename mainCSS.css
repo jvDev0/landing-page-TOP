@@ -2,6 +2,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     flex-direction: column;
+    flex: 1;
 
     margin: 0;
     padding: 0;
