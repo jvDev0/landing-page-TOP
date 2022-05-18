@@ -118,6 +118,9 @@ a {
     padding: 2em;
 }
 
+.modalButton {
+    align-self: center;
+}
 
 .footer {
     justify-content: center;
@@ -130,10 +133,9 @@ a {
     padding: 0;
 }
 
-
 .modal button {
     border: solid white;
-    padding: 0 2em;
+    padding: 10px 50px;
 }
 
 ul {
