@@ -2,13 +2,12 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     flex-direction: column;
-    flex: 1;
 
     margin: 0;
     padding: 0;
 
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: 100vh;
 }
 
 .header,
@@ -125,8 +124,6 @@ a {
 }
 
 .textFour {
-    display: flex;
-    flex-direction: column;
     margin: 0 5em;
 }
 
